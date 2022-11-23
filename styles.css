@@ -1,11 +1,16 @@
 .center{
     text-align: center;
+    color:aqua;
 }
 .mode{
   text-align: right;
+  color: blueviolet;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .spa{
   text-align: left;
+  color:blue;
+  
 } 
 .center{ 
     display: block;
